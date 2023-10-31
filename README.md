@@ -27,7 +27,7 @@ Nos dedicamos a la venta de indumentaria deportiva antigua (precisamente Futbol)
 	- Realizar el merge de la rama teniendo como base la develop.
 
 ## Finalmente
-###### TE SUGERIMOS IR Y SEGUIR LOS PASOS DEL ARCHIVO "README.MD" DEL REPOSITORIO QUE PERTENECE AL FRONT-END DE ESTE PROYECTO: <a href="https://github.com/martinferrando2005/Ecommerce-FRONTEND.git">Ecommerce-FRONTEND</a>
+###### TE SUGERIMOS IR Y SEGUIR LOS PASOS DEL ARCHIVO "README.MD" DEL REPOSITORIO QUE PERTENECE AL FRONT-END DE ESTE PROYECTO: <a href="https://github.com/MateoNava/Ecommerce-FRONTEND">Ecommerce-FRONTEND</a>
 
 ## Autores
 
